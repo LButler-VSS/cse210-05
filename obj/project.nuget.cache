@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PfItf7JdjiGiDCg/CYT445bq9xuzjHzLTprFA7t4lf1i25ks4wxVyb8Bw3ZZJS1xtEn23u+tARJqXEaZAVcfsw==",
+  "success": true,
+  "projectFilePath": "F:\\School\\CSE 210\\Projects\\cse210-05\\cse210-05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vipe1.DESKTOP-QDPLFGI\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\vipe1.DESKTOP-QDPLFGI\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

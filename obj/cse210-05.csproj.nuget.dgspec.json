@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\School\\CSE 210\\Projects\\cse210-05\\cse210-05.csproj": {}
+  },
+  "projects": {
+    "F:\\School\\CSE 210\\Projects\\cse210-05\\cse210-05.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\School\\CSE 210\\Projects\\cse210-05\\cse210-05.csproj",
+        "projectName": "cse210-05",
+        "projectPath": "F:\\School\\CSE 210\\Projects\\cse210-05\\cse210-05.csproj",
+        "packagesPath": "C:\\Users\\vipe1.DESKTOP-QDPLFGI\\.nuget\\packages\\",
+        "outputPath": "F:\\School\\CSE 210\\Projects\\cse210-05\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Appdata\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Raylib-cs": {
+              "target": "Package",
+              "version": "[4.0.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
